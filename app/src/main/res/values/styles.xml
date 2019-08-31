@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+
+
+    </style>
+
+
+    <style name="Image">
+        <item name="android:layout_width">166dp</item>
+        <item name="android:layout_height">153dp</item>
+    </style>
+
+    <style name="Student">
+        <item name="android:textColor">#F00</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="information">
+        <item name="android:textColor">#3383FF</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+</resources>
